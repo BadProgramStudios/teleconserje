@@ -1,0 +1,7 @@
+{
+  "name": "Teleconserje",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
